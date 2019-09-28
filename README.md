@@ -7,9 +7,11 @@ Note that the datasets would have to be provided as a folder with the appropriat
 
 There are two options for the steerable filter dictionary for creating scale-equivariant CNNs:
 
-(i)  Log-Radial Harmonics (Net_steergroupeq_stl10) 
+(i)  Log-Radial Harmonics (Net_steergroupeq_xxxx) 
 
-(2)  2D Discrete Cosine Transform Basis (Net_steergroupeq_stl10_dctbasis, Current SoTA on MNIST-Scale-10k)
+(2)  2D Discrete Cosine Transform Basis (Net_steergroupeq_xxxx_dctbasis, Current SoTA on MNIST-Scale-10k)
+
+xxxx: (Dataset Name)
 
 There are networks for other datasetes as well (mnist, fashion-mnist and cifar-10).
 
