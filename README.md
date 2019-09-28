@@ -9,7 +9,7 @@ There are two options for the steerable filter dictionary for creating scale-equ
 
 (i)  Log-Radial Harmonics (Net_steergroupeq_stl10) 
 
-(2)  2D Discrete Cosine Transform Basis (Net_steergroupeq_stl10_dctbasi (Current SoTA on MNIST-Scale-10k)
+(2)  2D Discrete Cosine Transform Basis (Net_steergroupeq_stl10_dctbasis, Current SoTA on MNIST-Scale-10k)
 
 There are networks for other datasetes as well (mnist, fashion-mnist and cifar-10).
 
