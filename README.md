@@ -1,5 +1,4 @@
-# SE_SSCNN
-Scale Equivariant Scale Steerable CNN using Group Convolutions
+# SE_SSCNN (Scale Equivariant Scale Steerable CNN)
 
 The main code is in main_test.py: Train equivariant (or invariant) networks of your choice on various datasets. 
 Note that the datasets would have to be provided as a folder with the appropriate name, and as pickle files. 
